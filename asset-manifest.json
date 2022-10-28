@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Project-react-flashcard-app/static/js/main.acb46dc0.chunk.js",
+    "main.js.map": "/Project-react-flashcard-app/static/js/main.acb46dc0.chunk.js.map",
+    "runtime-main.js": "/Project-react-flashcard-app/static/js/runtime-main.aef37a49.js",
+    "runtime-main.js.map": "/Project-react-flashcard-app/static/js/runtime-main.aef37a49.js.map",
+    "static/js/2.bfdec2d7.chunk.js": "/Project-react-flashcard-app/static/js/2.bfdec2d7.chunk.js",
+    "static/js/2.bfdec2d7.chunk.js.map": "/Project-react-flashcard-app/static/js/2.bfdec2d7.chunk.js.map",
+    "index.html": "/Project-react-flashcard-app/index.html",
+    "static/js/2.bfdec2d7.chunk.js.LICENSE.txt": "/Project-react-flashcard-app/static/js/2.bfdec2d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aef37a49.js",
+    "static/js/2.bfdec2d7.chunk.js",
+    "static/js/main.acb46dc0.chunk.js"
+  ]
+}
